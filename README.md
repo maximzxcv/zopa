@@ -15,6 +15,7 @@ Now application can be used, to get more details run:
 To change the market, update **Data/market.csv** file.
 
 ## Solution
+Main application solution contains two projects Zopa.Console and Zopa.Framework plus unit tests. Zopa.Frameworks is reposible for application buisness logic, while Zopa.Console  runs the program. The major functionality is emplemented by the following services.
 #### Zopa.Console/QuoteProgram.cs
 That is the presentation layer of application. It is responsible for reading the request, runs all the functionality and outputs the result.
 #### Zopa.Framework/MarketReader.cs
