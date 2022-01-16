@@ -26,4 +26,5 @@ Running over the market (ordered by rate) it calculates the loan details for eac
 ## Ways to improve
 - **Smarter MarketReader**: service can be better configurable and more flexible to data (for example to ignore lenders with bad data).
 - **Dynamic restrictions**: application limitation details can be moved to configuration. 
+- **Extend application functionality**: more command and fucntions can be avalable for a clinet (for example *.\zopa-rate market*, to show available lenders)
 - **Testing**: think about integration tests.
