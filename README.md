@@ -5,7 +5,7 @@ Technical task is in [ZopaBackendTechnicalTest.pdf](https://github.com/maximzxcv
 To prepare application, run the following commands:
 ```
 git clone https://github.com/maximzxcv/zopa
-dotnet publish -o .\app .\test\Zopa.Console
+dotnet publish -o .\app .\zopa\Zopa.Console
 cd .\app 
 ```
 Now application can be used, to get more details run:
