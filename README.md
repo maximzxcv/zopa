@@ -2,6 +2,9 @@
 Technical task is in [ZopaBackendTechnicalTest.pdf](https://github.com/maximzxcv/zopa/blob/main/ZopaBackendTechnicalTest.pdf) file.
 
 ## Run application
+
+Application **require .NET 5.0** to be installed on computer. You can download it on [dotnet.microsoft.com/en-us/download/dotnet/5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+
 To prepare application, run the following commands:
 ```
 git clone https://github.com/maximzxcv/zopa
