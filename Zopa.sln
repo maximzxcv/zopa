@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zopa.Console", "Zopa.Console\Zopa.Console.csproj", "{9669869A-2B17-4F60-A92D-04A9BD142AF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zopa.Framework", "Zopa.Framework\Zopa.Framework.csproj", "{D38DDFDE-38DB-42A9-B453-A743AAC6DE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zopa.Framework.Tests", "Zopa.Framework.Tests\Zopa.Framework.Tests.csproj", "{37D6F497-7CF7-4CFC-BE05-53E9587E8462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{3375BDC2-8E2F-4957-BB03-CB18EF1FD507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9669869A-2B17-4F60-A92D-04A9BD142AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9669869A-2B17-4F60-A92D-04A9BD142AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9669869A-2B17-4F60-A92D-04A9BD142AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9669869A-2B17-4F60-A92D-04A9BD142AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38DDFDE-38DB-42A9-B453-A743AAC6DE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38DDFDE-38DB-42A9-B453-A743AAC6DE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38DDFDE-38DB-42A9-B453-A743AAC6DE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38DDFDE-38DB-42A9-B453-A743AAC6DE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D6F497-7CF7-4CFC-BE05-53E9587E8462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D6F497-7CF7-4CFC-BE05-53E9587E8462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D6F497-7CF7-4CFC-BE05-53E9587E8462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D6F497-7CF7-4CFC-BE05-53E9587E8462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37D6F497-7CF7-4CFC-BE05-53E9587E8462} = {3375BDC2-8E2F-4957-BB03-CB18EF1FD507}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1714C7E-1DF7-421A-B657-C83C947463EB}
+	EndGlobalSection
+EndGlobal
