@@ -1,4 +1,6 @@
 
+Technical task is in [ZopaBackendTechnicalTest.pdf](https://github.com/maximzxcv/zopa/blob/main/ZopaBackendTechnicalTest.pdf) file.
+
 ## Run application
 To prepare application, run the following commands:
 ```
